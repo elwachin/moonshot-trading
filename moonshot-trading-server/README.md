@@ -6,7 +6,7 @@ A Node.js service that facilitates trading on Solana using the Moonshot SDK. Thi
 
 - Node.js (v16 or higher)
 - npm or yarn
-- Solana wallet with sufficient SOL for transactions
+- Solana DEVNET wallet with sufficient SOL for transactions
 
 ## Installation
 
@@ -117,5 +117,3 @@ moonshot-trading/
 ├── package.json
 └── README.md
 ```
-
-## License
